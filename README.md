@@ -1,7 +1,5 @@
 # offjt4cct
 研修
-# offjt4cct
-研修
 
 ## 目次
 
