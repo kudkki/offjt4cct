@@ -2,9 +2,9 @@
 
 ## Lenovo Tab M10 HD  で快適に使う
 
-1. Termuxセットアップして使い方を覚える
+### 1. Termuxセットアップして使い方を覚える
 
-1.1. Androidアプリをインストールして起動する
+1.1 Androidアプリをインストールして起動する
 
 1.2 パッケージ環境を最新化して sshをインストールする
 ```
@@ -25,7 +25,10 @@ https://qiita.com/tasakii/items/e3415780c99aa07a963a
 
 - Hacker's Keyboard と組み合わせるとかなり快適になります、特にTabキーで補完が使えるだけでかなり楽になる
 
-2. ssh鍵を作って登録
+### 2. ssh鍵を作って登録
+
+2.1 作る
+
 ```
 ssh-keygen -t rsa -b 4096
 
@@ -33,11 +36,21 @@ ssh-keygen -t rsa -b 4096
 ssh-add id_rsa
 ```
 
-3. gitコマンドを使う
-id_rsa ... 秘密鍵、しっかり管理して下さい
-id_rsa.pub ... 公開鍵、Githubへ登録します
+- id_rsa ... 秘密鍵、しっかり管理して下さい
+- id_rsa.pub ... 公開鍵、Githubへ登録します
+
+2.2 登録する
 
 https://github.com/settings/profile  
-SSH and GPG keys
-New SSH key
+SSH and GPG keys  
+New SSH key  
 ここへ公開鍵をコピペして登録する
+
+### 3. gitコマンドを使う
+
+3.1 config最低限しておく
+
+3.2 署名する
+
+3.3 確認する
+
