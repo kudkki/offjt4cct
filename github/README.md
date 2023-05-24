@@ -13,6 +13,7 @@ pkg install openssl
 apt install openssl-tool
 
 pkg install vim
+pkg install git
 ```
 
 1.3 使い方を覚える
