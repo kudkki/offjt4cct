@@ -3,8 +3,13 @@
 
 ## 目次
 
-- [Github](./github/README.md)
+### 言語
+
 - [Java](./java/README.md)
+
+### 共通
+
+- [Github](./github/README.md)
 
 ## 資料
 
