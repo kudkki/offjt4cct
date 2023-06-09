@@ -27,6 +27,8 @@
 Prometheus, 監視入門, AWS入門, ハンズオン
 - https://github.com/moritoki-study/cloudnative-hands-on  
 Docker, ハンズオン
+- https://jagi.hatenablog.com/entry/2022/10/23/191453  
+Mettermost, AWS, ハンズオン
 
 ## 記事
 - https://zine.qiita.com/interview/interview_udemy_20170906/  
