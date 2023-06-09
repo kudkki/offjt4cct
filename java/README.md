@@ -14,4 +14,4 @@
 
 ### 資格
 
-- Oracle Certified Java Programmer, Silver SE 11 対策
+- [Oracle Certified Java Programmer, Silver SE 11 対策](./ocjp_silver.md)
