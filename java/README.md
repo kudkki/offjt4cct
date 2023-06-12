@@ -9,8 +9,7 @@
 - gRPC初歩 (Eclips)
 - Reactive初歩 (Eclips)
 - Reactive二歩 (Eclips)
-
-- API
+- API (CRUD)
 
 ### 資格
 
