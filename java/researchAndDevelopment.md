@@ -1,12 +1,19 @@
-- JavaDocの読み方
-- Runtimeの種類と使い方
-  jdk毎に違うJavaDocはなぜあるの？どうしたらいいの
-- SpringBootのプロジェクト Gradleのdependenciesをどうすりゃいいのか
-- Gradleの方が大規模な開発での採用が多そう
+# 調べ方（Java版）
 
+リサーチして開発が基本的な開発プロジェクト担当者の仕事です
+
+調べ方やまとめ方のノウハウをまとめていきます
+
+## 目次
+
+- JavaDocの読み方つかいかた
+- JDK Runtimeの種類や使い方
+  jdk毎に違うJavaDocがある、なぜ？言ってること違うけどどうしたらいいの？
+- SpringBootのプロジェクト Gradleのdependenciesをどうするとうまく意図したビルドできるの？
 - MavenかGradleどっちを覚えたらいいの？
+     - Gradleの方が大規模な開発での採用が多そうだからこっち覚えよう
 
-# 参考にするとよい
+## ためになる学習ソース
 
 - springboot プラクティス  
 http://terasolunaorg.github.io/guideline/current/ja/
