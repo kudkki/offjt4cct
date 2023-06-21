@@ -22,10 +22,12 @@ cct社向け研修
 ### 言語
 
 - [Java](./java/README.md)
+- [調べ方（Java開発版）](./java/researchAndDevelopment.md)
 
 ### 共通
 
 - [Github](./github/README.md)
+
 
 ## 資料
 
