@@ -22,7 +22,7 @@ cct社向け研修
 ### 言語
 
 - [Java](./java/README.md)
-- [Typescript/Vue.js](./vuejs/README.md)
+- [Typescript/Vue.js](./ts_vuejs/README.md)
 
 ### 共通
 
@@ -41,5 +41,12 @@ Docker, ハンズオン
 Mettermost, AWS, ハンズオン
 
 ## 記事
+
 - https://zine.qiita.com/interview/interview_udemy_20170906/  
 QiitaとUdemyでキャリアアップに成功したユーザーの学習法
+
+- https://gist.github.com/gcchaan/02f4746a323acac4095c30e0783a3912  
+新人研修の公開資料まとめ
+
+- https://paiza.hatenablog.com/entry/2022/01/12/143000  
+開発者のリサーチを全般的にカバーしてる案内
