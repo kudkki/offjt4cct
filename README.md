@@ -22,9 +22,7 @@ cct社向け研修
 ### 言語
 
 - [Java](./java/README.md)
-- [調べ方（Java開発版）](./java/researchAndDevelopment.md)
-- Vue.js（フロントエンド）  
-BEは普通にREST-Jsonでもいい
+- [Typescript/Vue.js](./vuejs/README.md)
 
 ### 共通
 

@@ -2,6 +2,10 @@
 
 ## コンテンツ
 
+### リサーチandデベロップメント
+
+- [調べ方（Java開発版）](./researchAndDevelopment.md)
+
 ### ハンズオン
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
