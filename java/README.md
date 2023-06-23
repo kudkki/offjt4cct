@@ -9,7 +9,7 @@
 ### ハンズオン
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
-- DB初歩 (Eclips)
+- [DB初歩 (Eclips)](./springboot_db_intro.md)
 ----
 - gRPC初歩 (Eclips)
 - Reactive初歩 (Eclips)
