@@ -18,3 +18,5 @@
 - springboot プラクティス  
 http://terasolunaorg.github.io/guideline/current/ja/
 SpringBootの標準的な使い方を身に着けるまでここでべんきょうするといい
+
+- 本 Head first Java
