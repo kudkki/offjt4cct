@@ -4,7 +4,7 @@
 
 ## 目次
 - はじめに  
-  [JavaScriptの歴史](./ts_vuejs/docs/1.introduction.md)
+  [JavaScriptの歴史](./docs/1.introduction.md)
 
 - JavaScript入門  
   [チュートリアル](https://developer.mozilla.org/ja/docs/Web/JavaScript)
