@@ -3,6 +3,11 @@
 ## 概要
 
 ## 目次
+- はじめに  
+  [JavaScriptの歴史](./ts_vuejs/docs/1.introduction.md)
+
+- JavaScript入門  
+  [チュートリアル](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
 - まずはJavaScriptについてどの程度の知識があるのか確認し出発点をきめる
 https://mizchi.hatenablog.com/entry/2018/10/03/195854
