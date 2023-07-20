@@ -9,6 +9,11 @@
 - JavaScript入門  
   [チュートリアル](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
+- TypeScript入門  
+  [チュートリアル](https://typescriptbook.jp/)  
+  TypeScriptはJavaScriptに型定義を追加したものです。  
+  先にJavaScriptが読めてからのほうがよさそう。
+
 - まずはJavaScriptについてどの程度の知識があるのか確認し出発点をきめる
 https://mizchi.hatenablog.com/entry/2018/10/03/195854
 
