@@ -10,7 +10,7 @@
 
 - [Eclips基本](./setup_eclips.md)
 
-### Proコード
+### 本職のJavaデモコード
 
 - https://github.com/mnaganu/business-card-management
 
