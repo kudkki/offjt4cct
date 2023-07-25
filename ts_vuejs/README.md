@@ -9,14 +9,21 @@ Vue.jsとJavaScriptの学習用のコンテンツをここに記載していき�
    [JavaScriptの歴史](./docs/1.introduction.md)  
    [JavaScriptの基本（最初に知っていてほしいこと)](./docs/2.0.js_menu.md)
 
-2. ### JavaScript入門
+1. ### JavaScript入門
    [paiza 「JavaScript」入門講座](https://paiza.jp/works/search_courses/2205)  
    [paiza 以外がいい人はこちら](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
-3. ### TypeScript入門
+1. ### TypeScript入門
    TypeScriptはJavaScriptに型定義を追加したものです。  
    JavaScriptが読めるようになったら入門してみましょう。  
-   [チュートリアル](https://typescriptbook.jp/)  
+   [チュートリアル](https://typescriptbook.jp/)
+
+1. ### Vue.js入門
+   公式ページが一番と聞いた。  
+   [公式ページチュートリアル](https://ja.vuejs.org/tutorial/#step-1)
+
+1. ### Vue.js入門（ハンズオン）
+   つくりたいですが、未着手
 
 
 <details>
