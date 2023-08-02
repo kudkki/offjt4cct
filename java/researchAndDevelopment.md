@@ -20,3 +20,7 @@ http://terasolunaorg.github.io/guideline/current/ja/
 SpringBootの標準的な使い方を身に着けるまでここでべんきょうするといい
 
 - 本 Head first Java
+
+## 導入技術の調査
+
+- Youtubeで要素技術にフォーカスした外人の動画を見ながら空気読んで一通りやってみる
