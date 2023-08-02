@@ -20,6 +20,7 @@ http://terasolunaorg.github.io/guideline/current/ja/
 SpringBootの標準的な使い方を身に着けるまでここでべんきょうするといい
 
 - 本 Head first Java
+- 本 Effective Java
 
 ## 導入技術の調査
 
