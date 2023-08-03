@@ -16,7 +16,7 @@ Vue.jsとJavaScriptの学習用のコンテンツをここに記載していき�
 1. ### TypeScript入門
    TypeScriptはJavaScriptに型定義を追加したものです。  
    JavaScriptが読めるようになったら入門してみましょう。  
-   Vue.js 入門が先でもOKと思います。 
+   Vue.js 入門が先でもOKと思います。  
    [チュートリアル](https://typescriptbook.jp/)
 
 1. ### Vue.js入門
@@ -26,7 +26,7 @@ Vue.jsとJavaScriptの学習用のコンテンツをここに記載していき�
    [codepenでコードを動かしてみる（書き換えて動きを見てみる）](https://codepen.io/mura-no/pen/RwqvMKV)  
 
 2. ### Vue.js入門（ハンズオン）
-   [作成中](./docs/4.0.vue_menu.md)
+   [まだちょっとだけ](./docs/4.0.vue_menu.md)
 
 
 <details>
