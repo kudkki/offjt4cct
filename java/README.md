@@ -14,6 +14,10 @@
 
 - https://github.com/mnaganu/business-card-management
 
+#### デモコード business-card-manegement について
+
+- [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
+
 ### ハンズオン
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
