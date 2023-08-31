@@ -27,7 +27,7 @@ Vue.jsとJavaScriptの学習用のコンテンツをここに記載していき�
    [codepenでコードを動かしてみる（書き換えて動きを見てみる）](https://codepen.io/mura-no/pen/RwqvMKV)  
 
 2. ### Vue.js入門（ハンズオン）
-   [まだちょっとだけ](./docs/4.0.vue_menu.md)
+   [パスワードジェネレータを作ってみよう](./docs/4.0.vue_menu.md)
 
 
 <details>
