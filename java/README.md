@@ -14,9 +14,11 @@
 
 - https://github.com/mnaganu/business-card-management
 
-#### デモコード business-card-manegement について
+#### BusineeCardManagementハンズオン
 
-- [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
+1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
+2. データ項目追加しテスト（デバッガとJUnitの使い方）
+3. webAPI/DBなど外部連携IFを追加する（Mockito,DBtest）
 
 ### ハンズオン
 
