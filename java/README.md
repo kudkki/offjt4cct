@@ -10,6 +10,14 @@
 
 - [Eclips基本](./setup_eclips.md)
 
+- IntelliJ基本
+
+#### はじめの一歩ハンズオン
+
+- [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
+- [DB初歩 (Eclips)](./springboot_db_intro.md)
+  
+
 ### 本職のJavaデモコード
 
 - https://github.com/mnaganu/business-card-management
@@ -20,11 +28,8 @@
 2. データ項目追加しテスト（デバッガとJUnitの使い方）
 3. webAPI/DBなど外部連携IFを追加する（Mockito,DBtest）
 
-### ハンズオン
+### 進んだ内容
 
-- [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
-- [DB初歩 (Eclips)](./springboot_db_intro.md)
-----
 - gRPC初歩 (Eclips)
 - Reactive初歩 (Eclips)
 - Reactive二歩 (Eclips)
