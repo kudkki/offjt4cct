@@ -20,7 +20,7 @@
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
 - [DB初歩 (Eclips)](./springboot_db_intro.md)
 - [DI](https://qiita.com/kazuki43zoo/items/7a0e96573e930ac934ed)
-- 基本的なMVC
+- [基本的なMVC](http://terasolunaorg.github.io/guideline/current/ja/Overview/FirstApplication.html)
 - GradleビルドとSpringアプリケーションの起動について（簡単な使い方、build.gradle書き方-依存-publish）
 - レイヤー化したアプリケーション
 - バリデーション
