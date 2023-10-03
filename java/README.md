@@ -21,7 +21,9 @@
 - [DB初歩 (Eclips)](./springboot_db_intro.md)
 - [DI](https://qiita.com/kazuki43zoo/items/7a0e96573e930ac934ed)
 - [基本的なMVC](http://terasolunaorg.github.io/guideline/current/ja/Overview/FirstApplication.html)
-- GradleビルドとSpringアプリケーションの起動について（簡単な使い方、build.gradle書き方-依存-publish）
+- [Gradleビルド入門 (簡単な使い方、build.gradleの書き方、依存)](https://pleiades.io/help/idea/getting-started-with-gradle.html)
+- [Gradleビルド応用（publish）](https://pleiades.io/help/idea/add-a-gradle-library-to-the-maven-repository.html)
+- Springアプリケーションの起動について
 - レイヤー化したアプリケーション
 - バリデーション
   
