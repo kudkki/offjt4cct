@@ -29,10 +29,12 @@
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
 2. GradleビルドとSpringアプリケーションの起動について（簡単な使い方、build.gradle書き方-依存-publish）
-3. Todoアプリ
-5. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
-6. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
-7. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
+3. 基本的なMVC
+4. レイヤー化したアプリケーション
+5. バリデーション
+6. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
+7. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
+8. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
 
 #### 進んだ内容のハンズオン
 
