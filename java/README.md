@@ -19,6 +19,8 @@
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
 - [DB初歩 (Eclips)](./springboot_db_intro.md)
+- DI / AOP
+- 
   
 
 #### Javaデモコードとハンズオン
