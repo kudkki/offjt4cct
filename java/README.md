@@ -10,12 +10,10 @@
 
 - [Eclips基本](./setup_eclips.md)
 - IntelliJ基本
-- Gradle基本
-- LinterやFormatter  
 
 ### ハンズオン
 
-#### はじめの一歩のハンズオン
+#### はじめの一歩
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
 - [DB初歩 (Eclips)](./springboot_db_intro.md)
@@ -28,24 +26,16 @@
 - バリデーション
   
 
-#### Javaデモコードとハンズオン
+#### BusineeCardManagement課題
 
 - https://github.com/mnaganu/business-card-management
 
-#### BusineeCardManagement課題
+##### 課題
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
 3. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
 4. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
 5. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
-
-#### 進んだ内容のハンズオン
-
-- gRPC初歩 (Eclips)
-- Reactive初歩 (Eclips)
-- Reactive二歩 (Eclips)
-----
-- API (CRUD)
 
 ### Java資格
 
