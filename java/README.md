@@ -19,8 +19,11 @@
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
 - [DB初歩 (Eclips)](./springboot_db_intro.md)
-- DI / AOP
-- 
+- DI/AOP (IntelliJ)
+- 基本的なMVC
+- GradleビルドとSpringアプリケーションの起動について（簡単な使い方、build.gradle書き方-依存-publish）
+- レイヤー化したアプリケーション
+- バリデーション
   
 
 #### Javaデモコードとハンズオン
@@ -30,14 +33,9 @@
 #### BusineeCardManagement課題
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
-2. GradleビルドとSpringアプリケーションの起動について（簡単な使い方、build.gradle書き方-依存-publish）
-3. DI/AOP
-4. 基本的なMVC
-5. レイヤー化したアプリケーション
-6. バリデーション
-7. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
-8. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
-9. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
+3. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
+4. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
+5. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
 
 #### 進んだ内容のハンズオン
 
