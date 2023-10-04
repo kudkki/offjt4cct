@@ -36,11 +36,12 @@
 ##### 課題
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
-2. [Gradleビルド入門 (簡単な使い方、build.gradleの書き方、依存)](https://pleiades.io/help/idea/getting-started-with-gradle.html)
-3. [Gradleビルド応用（publish）](https://pleiades.io/help/idea/add-a-gradle-library-to-the-maven-repository.html)
-4. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
-5. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
-6. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
+2. CodeGeneratorの使い方
+3. [Gradleビルド入門 (簡単な使い方、build.gradleの書き方、依存)](https://pleiades.io/help/idea/getting-started-with-gradle.html)
+4. [Gradleビルド応用（publish）](https://pleiades.io/help/idea/add-a-gradle-library-to-the-maven-repository.html)
+5. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
+6. business-card-managementで接続DBを複数化する（分岐をifで処理しないDIを体感し理解する）
+7. business-card-manegementの起動がエラーするアノテーション付け忘れなど（難解エラーメッセージを調査する）
 
 ### Java資格
 
