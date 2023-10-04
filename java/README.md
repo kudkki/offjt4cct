@@ -31,6 +31,7 @@
 ##### 概説
 
 - [パッケージ構成はDDDに近い方式をとっている](http://terasolunaorg.github.io/guideline/current/ja/Overview/ApplicationLayering.html)
+- [アノテーションベースのコンテナー構成でxmlは使わない](https://spring.pleiades.io/spring-framework/reference/core/beans/annotation-config.html)
 
 ##### 課題
 
