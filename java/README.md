@@ -13,6 +13,8 @@
 
 ### ハンズオン
 
+コードを自身で書いて動かし個人リポジトリへcommitして誰かに見てもらう進めかたを想定
+
 #### はじめの一歩
 
 - [SpringBoot HelloWorld (Eclips)](./springboot_helloworld.md)
