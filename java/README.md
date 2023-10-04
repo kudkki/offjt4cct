@@ -30,6 +30,10 @@
 
 - https://github.com/mnaganu/business-card-management
 
+##### 概説
+
+- [パッケージ構成はDDDに近い方式をとっている](http://terasolunaorg.github.io/guideline/current/ja/Overview/ApplicationLayering.html)
+
 ##### 課題
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
