@@ -9,7 +9,8 @@
 ### 環境について
 
 - [Eclips基本](./setup_eclips.md)
-- IntelliJ基本
+- [IntelliJ基本（Git連携以降はあまり使わない）](https://tech-blog.rakus.co.jp/entry/20210421/intellij)
+- [IntelliJショートカット](https://blog.jetbrains.com/ja/2020/03/12/2848/)
 
 ### ハンズオン
 
