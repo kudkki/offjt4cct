@@ -37,7 +37,7 @@
 ##### 課題
 
 1. [IntelliJで business-card-manegement を起動する](./bcm_intellij_first-step.md)
-2. CodeGeneratorの使い方
+2. [CodeGeneratorの使い方](https://github.com/kudkki/offjt4cct/blob/main/java/bcm_codegen-usage.md)
 3. [Gradleビルド入門 (簡単な使い方、build.gradleの書き方、依存)](https://pleiades.io/help/idea/getting-started-with-gradle.html)
 4. [Gradleビルド応用（publish）](https://pleiades.io/help/idea/add-a-gradle-library-to-the-maven-repository.html)
 5. business-card-managementへ「入力値の検証＝バリデーション」機能を追加する（デバッガ、JUnitなどの使い方）
